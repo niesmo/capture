@@ -1,0 +1,22 @@
+{
+  "name": "capture",
+  "version": "1.0.0",
+  "description": "Capture temporal + locational details about a given moment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niesmo/capture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niesmo/capture/issues"
+  },
+  "homepage": "https://github.com/niesmo/capture#readme",
+  "dependencies": {
+    "firebase": "^9.10.0"
+  }
+}
